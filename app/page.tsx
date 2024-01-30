@@ -40,6 +40,7 @@ export default function Page() {
             className="block md:hidden"
             alt="Screenshot of the dashboard project showing mobile version"
           />
+          <p>new change</p>
         </div>
       </div>
     </main>
